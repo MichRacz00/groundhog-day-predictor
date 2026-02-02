@@ -23,3 +23,5 @@ A simple, single-page website that provides a fun, interactive Groundhog Day pre
     *   **`<style>` block:** Defines the layout, appearance, and animations for the page elements.
     *   **`<body>` block:** Holds the HTML structure for the title, groundhog, text, and button.
     *   **`<script>` block:** Contains the JavaScript logic to handle the button click, run the animation, and generate the random prediction.
+
+![A cute groundhog](groundhog.webp)
